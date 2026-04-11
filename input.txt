@@ -1,0 +1,3 @@
+hello you are using pything 3.12 version
+this line contains hello word
+you should pratice more to learn python
