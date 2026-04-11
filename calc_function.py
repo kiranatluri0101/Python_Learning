@@ -19,7 +19,7 @@ def multiplication():
     mul=a*b
     print(mul)
 
-#These if conditions will invoke the function based on input givne user
+#These if conditions, will invoke the function based on input givne user
 if action == "add":
    addition()
 elif action == "sub":
